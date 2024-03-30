@@ -11,8 +11,4 @@
 // 9.var is globally scoped while let and const are blocked scoped.
 //10. Data type means what type of value store in that variable.
 //11.There are 7 types of data type.
-
-let a="rajeev";
-let b=11;
-console.log(a+b);
-console.log(typeof (a+b));
+a)Null  b)Number c)Symbol  d)String  e)Boolean  e)BigInt  f)Undefined
