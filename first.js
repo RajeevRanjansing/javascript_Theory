@@ -12,3 +12,33 @@
 //10. Data type means what type of value store in that variable.
 //11.There are 7 types of data type.
 a)Null  b)Number c)Symbol  d)String  e)Boolean  e)BigInt  f)Undefined
+
+//12. let a=6;
+//    let b=6;
+//    console.log(a==b);    here our answer is true
+
+//13.let a=6;
+//let b="6";
+//console.log(a===b);         here our answer is false because a is integer and b is string
+
+//14. let a=prompt("enter the number");
+//        console.log(typeof a);          here value of a is string
+
+//15.To convert string into integer
+//    a=Number.parseInt(a);
+//console.log(typeof a);
+
+//16. let name="Rajeev singh";
+//console.log(name.length);       //answer is 12
+
+//let name="Rajeev \tsingh";
+//console.log(name.length);     //answer is 13(\t or \n is count as 1)
+
+//17. Arrow function is used to write the function in short Form.
+
+//18. DOM(Document object Model) is used to access the html code in js.
+
+//19. Window is a browser object.It is browser object and automatically created by the browser.
+
+//20. DOM is used to dynamically changes without using HTML file.
+
