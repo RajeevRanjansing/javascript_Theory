@@ -42,3 +42,13 @@ a)Null  b)Number c)Symbol  d)String  e)Boolean  e)BigInt  f)Undefined
 
 //20. DOM is used to dynamically changes without using HTML file.
 
+// let a=document.getElementById("one");
+
+// let b=document.getElementsByClassName("myclass");
+
+// let c=document.getElementsByTagName("p");
+
+// let d=document.querySelector("#one");
+
+// let dim=document.querySelector("div");
+// console.log(dim.innerText);
